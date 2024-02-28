@@ -1,2 +1,3 @@
 This is a test.
 The second line of the test.
+Modifying the text file.
